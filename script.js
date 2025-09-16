@@ -1,1 +1,1 @@
-console.log("atyle.css")
+console.log("style.css");
